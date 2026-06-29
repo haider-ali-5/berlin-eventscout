@@ -1,0 +1,6 @@
+pandas
+sentence-transformers
+streamlit
+pydeck
+optuna
+wandb

@@ -1,0 +1,24 @@
+{
+  "os": "Windows-10-10.0.26200-SP0",
+  "python": "CPython 3.10.11",
+  "startedAt": "2026-06-26T13:52:16.350453Z",
+  "program": "E:\\berlin-eventscout\\3_evaluate_wb.py",
+  "codePath": "3_evaluate_wb.py",
+  "codePathLocal": "3_evaluate_wb.py",
+  "email": "haider8237@gmail.com",
+  "root": "E:\\berlin-eventscout",
+  "host": "DESKTOP-963FN0I",
+  "executable": "E:\\berlin-eventscout\\venv\\Scripts\\python.exe",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "125829115904",
+      "used": "18388660224"
+    }
+  },
+  "memory": {
+    "total": "17052135424"
+  },
+  "writerId": "8tg16heq1kwq21lcgjuuw75w7wlpy7zl"
+}

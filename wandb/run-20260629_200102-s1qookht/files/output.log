@@ -1,0 +1,10 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights: 100%|███████████████████████████| 199/199 [00:00<00:00, 2038.23it/s]
+
+📊 Calculating Precision@k and Recall@k...
+ -> Query: 'live music and bands' | Precision@5: 1.00 | Recall@5: 0.05
+ -> Query: 'art and museum' | Precision@5: 0.00 | Recall@5: 0.00
+ -> Query: 'nightlife and clubbing' | Precision@5: 0.00 | Recall@5: 0.00
+
+✅ Evaluation Complete! Avg Precision: 33.3%, Avg Recall: 1.8%
+✅ Metrics seamlessly logged to Weights & Biases.

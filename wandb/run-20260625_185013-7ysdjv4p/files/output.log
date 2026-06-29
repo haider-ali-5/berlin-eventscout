@@ -1,0 +1,12 @@
+[3/4] Running Evaluation (Precision@k*)...
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights: 100%|██████████| 103/103 [00:00<00:00, 1039.02it/s]
+
+Search Query: 'music concert'
+Top 3 results given by AI: [8, 3, 0]
+Actual correct matches found: [np.int64(0)]
+Live Precision@3: 0.33
+
+Overall System Precision@3: 0.33
+
+[4/4] Logging to W&B Cloud...

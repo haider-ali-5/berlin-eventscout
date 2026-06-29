@@ -1,0 +1,9 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights: 100%|████████████████| 199/199 [00:00<00:00, 889.46it/s]
+
+📊 Calculating Precision@8 and Recall@8...
+ -> Query: 'live music and concerts' | Precision: 1.00 | Recall: 0.09 (Total in DB: 87)
+ -> Query: 'weekend club party' | Precision: 0.25 | Recall: 0.33 (Total in DB: 6)
+ -> Query: 'stand up comedy' | Precision: 1.00 | Recall: 0.44 (Total in DB: 18)
+
+✅ Evaluation Complete! Avg Precision: 75.0%, Avg Recall: 29.0%
