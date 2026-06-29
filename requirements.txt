@@ -4,3 +4,5 @@ streamlit
 pydeck
 optuna
 wandb
+beautifulsoup4
+requests
