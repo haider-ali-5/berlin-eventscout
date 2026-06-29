@@ -5,4 +5,5 @@ pydeck
 optuna
 wandb
 beautifulsoup4
+selenium
 requests
